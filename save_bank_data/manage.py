@@ -41,5 +41,5 @@ if __name__ == '__main__':
     for account in bank_accounts:
         for i, d in enumerate(date_lis):
             op_bank.updata_balance(account, date_lis[i+1], d)  # 更新当日收入支出和余额
-            print(1)
+            print(1111)
 
